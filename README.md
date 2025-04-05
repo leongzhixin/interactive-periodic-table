@@ -1,20 +1,22 @@
 # Project Title
 
-This project showcases an interactive table that covers various research topics and data analysis areas. Each cell represents a different domain, providing relevant information for users to browse and reference.
+This project creates a Periodic Table of research topics related to data, privacy, and infrastructure. Each topic is represented by a cell, and the table is color-coded to group similar topics.
 
 ## Features
 
-- Displays a table with various research and data topics such as User Research, Privacy Concerns, Data Security, and more.
-- Each cell in the table contains a title and a short description to help users quickly understand the core content of each domain.
+- A grid layout resembling a Periodic Table with research topics.
+- Each cell displays a topic name and a brief description.
+- Different colors are used for each category of topics (e.g., Data Security, Tech Literacy).
 
 ## Tech Stack
 
-- HTML
-- CSS
-- Custom style classes
+- HTML for the structure of the table.
+- CSS for styling the table with borders, colors, and text alignment.
 
 ## Installation & Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/leongzhixin/periodic-table.git
+
+2. Open the periodic-table.html file in your web browser to view the table.
