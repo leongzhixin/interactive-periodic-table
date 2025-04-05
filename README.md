@@ -23,4 +23,4 @@ This project creates a Periodic Table of research topics related to data, privac
 
 ## Screenshot
 
-![Periodic Table Screenshot](https://screenshot-of-periodic-table.png)
+![Periodic Table Screenshot](screenshot-of-periodic-table.png)
