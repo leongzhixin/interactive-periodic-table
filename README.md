@@ -19,4 +19,8 @@ This project creates a Periodic Table of research topics related to data, privac
    ```bash
    git clone https://github.com/leongzhixin/periodic-table.git
 
-2. Open the periodic-table.html file in your web browser to view the periodic table.
+2. Open the periodic-table.html file in your web browser to view the table.
+
+## Screenshot
+
+![Periodic Table Screenshot](https://screenshot-of-periodic-table.png)
